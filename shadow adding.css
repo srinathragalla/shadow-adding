@@ -1,0 +1,12 @@
+#para{
+    font-size: 60px;
+    color: rgb(214, 214, 233);
+    text-shadow: 3px 3px  rgb(199, 209, 199);
+}
+#newdiv{
+    background-color: rgb(235, 156, 38);
+    width: 250px;
+    height: 250px;
+    margin: 100px;
+    box-shadow: 3px 3px rgb(92, 79, 79);
+}
